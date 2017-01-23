@@ -54,6 +54,7 @@ h1 {
 }
 
 #zone1 h2 {
+    margin-top: 38px;
     font-family: "gotham narrow", sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -78,6 +79,7 @@ h1 {
 }
 
 #zone2 h2 {
+    margin-top: 38px;
     font-family: "gotham narrow", sans-serif;
     font-style: normal;
     font-weight: 500;
