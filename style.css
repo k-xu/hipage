@@ -1,8 +1,7 @@
 html {
     width: 600px;
     height: 600px;
-    background: none;
-    -webkit-transform-origin: 20% 40%;
+    background: black;
 }
 
 body {
