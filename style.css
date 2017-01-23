@@ -1,7 +1,8 @@
 html {
     width: 600px;
     height: 600px;
-    background: black;
+    background: none;
+    -webkit-transform-origin: 20% 40%;
 }
 
 body {
@@ -10,16 +11,6 @@ body {
     height: 600px;
 }
 
-
-
-#canvasContainer {
-    position: absolute;
-    top: 100px;
-    left: 100px;
-    width: 600px;
-    height: 350px;
-    background: black;
-}
 
 
 h1 {
