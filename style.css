@@ -5,9 +5,12 @@ html {
 }
 
 body {
-    background: black; 
-    width: 600px;
-    height: 600px;
+    position: absolute;
+    top:-10px;
+    left: -10px;
+    background: black;
+    width: 610px;
+    height: 610px;
 }
 
 
