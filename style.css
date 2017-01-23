@@ -21,10 +21,11 @@ h1 {
     left: 40px;
     font-family: "atlas typewriter";
     font-weight: 600;
-    color: black;
+    color: white;
     font-size: 21px;
     padding-bottom: 2px;
-    border-bottom: none;;
+    border-bottom: none;
+    color: black;
 }
 
 .instructionHead {
@@ -105,7 +106,7 @@ h1 {
 
 #object1 {
     position: absolute;
-    top: 200;
+    top: 195;
     left: 43;
     color: white;
 }
@@ -117,7 +118,7 @@ h1 {
 }
 
 #object1 p {
-    margin-top: 12px;
+    margin-top: 15px;
     margin-left: 10px;
     text-align: center;
     vertical-align: center;
