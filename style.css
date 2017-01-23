@@ -1,0 +1,241 @@
+html {
+    width: 600px;
+    height: 600px;
+    background: white;
+}
+
+body {
+    background: black; 
+    width: 600px;
+    height: 600px;
+}
+
+
+
+#canvasContainer {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    width: 600px;
+    height: 350px;
+    background: black;
+}
+
+
+h1 {
+    position: fixed;
+    top: 67px;
+    left: 40px;
+    font-family: "atlas typewriter";
+    font-weight: 600;
+    color: white;
+    font-size: 17px;
+    padding-bottom: 2px;
+    border-bottom: 2px solid white;
+}
+
+.instructionHead {
+    position: fixed;
+    top: 100px;
+    left: 39px;
+    width: 350px;
+    font-family: "atlas typewriter", sans-serif;
+    font-weight: 400;
+    color: white;
+    font-size: 17px;
+    line-height: 1.3em;
+}
+
+#zone1 {
+    position: absolute;
+    top: 80;
+    left: 330;
+    width: 200px;
+    height: 200px;
+    border: none;
+    background: black;
+    border: 2px dashed white;
+}
+
+#zone1 h2 {
+    font-family: "gotham narrow", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 1.2em;
+    color: white;
+    vertical-align: middle;
+    text-align: center;
+    padding: 10px;;
+}
+
+
+#zone2 {
+    position: absolute;
+    top: 330;
+    left: 330;
+    width: 200px;
+    height: 200px;
+    border: none;
+    background: black;
+    border: 2px dashed white;
+}
+
+#zone2 h2 {
+    font-family: "gotham narrow", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 1.2em;
+    color: white;
+    vertical-align: middle;
+    text-align: center;
+    padding: 10px;
+}
+
+
+/*Task Codes*/
+
+/*Task 1*/
+
+#instruction1 {
+    position: fixed;
+    font-family: "gotham narrow", sans-serif;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 17px;
+    line-height: 1.4em;
+    top: 102px;
+    width: 240px;
+    color: white;
+}
+
+#object1 {
+    position: absolute;
+    top: 260;
+    left: 40;
+    color: white;
+}
+
+#object2 {
+    position: absolute;
+    top: 200;
+    left: 300;
+}
+
+#object1 p {
+    margin-top: 12px;
+    margin-left: 10px;
+    text-align: center;
+    vertical-align: center;
+    font-family: "atlas typewriter", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    padding-bottom: -10px;   
+}
+
+#dialogObject1 {			
+    display:none;
+    font-family: "gotham narrow", sans-serif;
+    width: 500px;
+    height: auto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.3em;
+    padding: 20px;
+			}
+
+
+/*Task 2*/
+
+#instruction2 {
+    font-family: "skolar-sans-latin", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    position: fixed;
+    top: 70px;
+    width: 220px;
+    line-height: 1.25em;
+    color: black;
+    opacity: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: cell;
+}
+
+.ui-button-icon ui-icon ui-icon-closethick:hover {
+    cursor: cell;
+}
+
+#dialogObject2 {			
+    display:none;
+    font-family: "gotham narrow", sans-serif;
+    width: 500px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.25em;
+    padding: 20px;
+			}
+
+#contactbutton, #resumebutton {
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+/*Task 3*/
+
+#instruction3 {
+    font-family: "skolar-sans-latin", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    position: fixed;
+    top: 70px;
+    width: 220px;
+    line-height: 1.3em;
+    color: black;
+    opacity: 0;
+}
+
+#inObject3 {
+    position: fixed;
+    top: 135px;
+    left: 36px;
+    opacity: 0;
+}
+
+#object3 {
+    position: absolute;
+    top: 100;
+    left: 930;
+    color: blue;
+}
+
+#object3 p {
+    margin-top: -46px;
+    margin-left: 18px;
+    text-align: center;
+    vertical-align: center;
+    font-family: "skolar-sans-latin", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    padding-bottom: -10px;   
+}
+
+#dialogObject3 {			
+    display:none;
+    font-family: "skolar-sans-latin", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.4em;
+			}
+
+
+
+
+
+
