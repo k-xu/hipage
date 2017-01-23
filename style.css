@@ -121,6 +121,10 @@ h1 {
     left: 300;
 }
 
+#object1:hover {
+    cursor: cell;
+}
+
 #object1 p {
     margin-top: 15px;
     margin-left: 10px;
