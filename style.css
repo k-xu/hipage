@@ -237,7 +237,9 @@ a:hover {
 			}
 
 
-
+::-webkit-scrollbar { 
+    display: none; 
+}
 
 
 
