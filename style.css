@@ -152,8 +152,7 @@ h1 {
 
 #dialogObject1 {
     display:none;
-    font-family: "gotham narrow", sans-serif;
-    width: 500px;
+    font-family: "gotham narrow light", sans-serif;
     height: auto;
     font-size: 14px;
     font-weight: 400;
@@ -190,7 +189,7 @@ a:hover {
 
 #dialogObject2 {			
     display:none;
-    font-family: "gotham narrow", sans-serif;
+    font-family: "gotham narrow light", sans-serif;
     width: 500px;
     font-size: 14px;
     font-weight: 400;
