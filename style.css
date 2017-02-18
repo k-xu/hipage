@@ -29,7 +29,7 @@ h1 {
     color: black;
 }
 */@font-face {
-    font-family: 'gotham narrow thin';
+    font-family: 'gotham narrow light';
     src: url('http://files.cargocollective.com/717528/GothamNarrow-Thin.otf');
     font-weight: 200;
 }
@@ -117,7 +117,7 @@ h1 {
 
 #instruction1 {
     position: fixed;
-    font-family: "gotham narrow thin", sans-serif;
+    font-family: "gotham narrow light", sans-serif;
     font-style: normal;
     font-weight: 200;
     font-size: 17px;
