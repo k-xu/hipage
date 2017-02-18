@@ -44,6 +44,7 @@ h1 {
     font-family: 'atlas typewriter';
     src: url('AtlasTypewriter-Regular.otf')
 }
+
 .instructionHead {
     position: fixed;
     top: 100px;
@@ -123,7 +124,7 @@ h1 {
 
 #object1 {
     position: absolute;
-    top: 43%;
+    top: 40%;
     left: 43;
     color: white;
 }
