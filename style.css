@@ -44,6 +44,11 @@ h1 {
     src: url('http://files.cargocollective.com/717528/GothamNarrow-Book.otf');
 }
 
+@font-face {
+    font-family: 'atlas typewriter';
+    src: url('http://files.cargocollective.com/717528/AtlasTypewriter-Regular.otf');
+}
+
 .instructionHead {
     position: fixed;
     top: 100px;
