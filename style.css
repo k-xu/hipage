@@ -31,8 +31,8 @@ h1 {
 
 
 @font-face {
-    font-family: 'gotham narrow thin';
-    src: url('GothamNarrow-Thin.otf');
+    font-family: 'gotham narrow Light';
+    src: url('GothamNarrow-Light.otf');
 }
 
 @font-face {
@@ -112,7 +112,7 @@ h1 {
 
 #instruction1 {
     position: fixed;
-    font-family: "gotham narrow thin", sans-serif;
+    font-family: "gotham narrow light", sans-serif;
     font-style: normal;
     font-weight: 200;
     font-size: 17px;
@@ -124,7 +124,7 @@ h1 {
 
 #object1 {
     position: absolute;
-    top: 38%;
+    top: 42%;
     left: 43;
     color: white;
 }
