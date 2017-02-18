@@ -28,7 +28,11 @@ h1 {
     border-bottom: none;
     color: black;
 }
-*/
+*/@font-face {
+    font-family: 'gotham narrow';
+    src: url('http://files.cargocollective.com/717528/GothamNarrow-Thin.otf');
+    font-weight: 200;
+}
 
 .instructionHead {
     position: fixed;
@@ -110,7 +114,7 @@ h1 {
 
 #object1 {
     position: absolute;
-    top: 40%;
+    top: 45%;
     left: 43;
     color: white;
 }
