@@ -15,7 +15,7 @@ body {
 
 
 
-/*
+
 h1 {
     position: fixed;
     top: 64px;
@@ -28,33 +28,28 @@ h1 {
     border-bottom: none;
     color: black;
 }
-*/@font-face {
-    font-family: 'gotham narrow light';
-    src: url('http://files.cargocollective.com/717528/GothamNarrow-Thin.otf');
+
+
+@font-face {
+    font-family: 'gotham narrow thin';
+    src: url('GothamNarrow-Thin.otf');
 }
 
 @font-face {
     font-family: 'gotham narrow bold';
-    src: url('http://files.cargocollective.com/717528/GothamNarrow-Medium.otf');
-}
-
-@font-face {
-    font-family: 'gotham narrow medium';
-    src: url('http://files.cargocollective.com/717528/GothamNarrow-Book.otf');
+    src: url('GothamNarrow-Medium.otf');
 }
 
 @font-face {
     font-family: 'atlas typewriter';
-    src: url('http://files.cargocollective.com/717528/AtlasTypewriter-Regular.otf');
+    src: url('AtlasTypewriter-Regular.otf')
 }
-
 .instructionHead {
     position: fixed;
     top: 100px;
     left: 39px;
     width: 350px;
     font-family: "atlas typewriter", sans-serif;
-    font-weight: 400;
     color: white;
     font-size: 17px;
     line-height: 1.3em;
@@ -116,7 +111,7 @@ h1 {
 
 #instruction1 {
     position: fixed;
-    font-family: "gotham narrow light", sans-serif;
+    font-family: "gotham narrow thin", sans-serif;
     font-style: normal;
     font-weight: 200;
     font-size: 17px;
