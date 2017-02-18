@@ -29,9 +29,19 @@ h1 {
     color: black;
 }
 */@font-face {
-    font-family: 'gotham narrow';
+    font-family: 'gotham narrow thin';
     src: url('http://files.cargocollective.com/717528/GothamNarrow-Thin.otf');
     font-weight: 200;
+}
+
+@font-face {
+    font-family: 'gotham narrow bold';
+    src: url('http://files.cargocollective.com/717528/GothamNarrow-Medium.otf');
+}
+
+@font-face {
+    font-family: 'gotham narrow medium';
+    src: url('http://files.cargocollective.com/717528/GothamNarrow-Book.otf');
 }
 
 .instructionHead {
@@ -59,7 +69,7 @@ h1 {
 
 #zone1 h2 {
     margin-top: 38px;
-    font-family: "gotham narrow", sans-serif;
+    font-family: "gotham narrow bold", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 32px;
@@ -84,7 +94,7 @@ h1 {
 
 #zone2 h2 {
     margin-top: 38px;
-    font-family: "gotham narrow", sans-serif;
+    font-family: "gotham narrow bold", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 32px;
@@ -102,7 +112,7 @@ h1 {
 
 #instruction1 {
     position: fixed;
-    font-family: "gotham narrow", sans-serif;
+    font-family: "gotham narrow thin", sans-serif;
     font-style: normal;
     font-weight: 200;
     font-size: 17px;
